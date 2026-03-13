@@ -1,0 +1,9 @@
+Artificial Intelligence (AI) is transforming the world. Machine learning is a subset of AI that enables computers to learn from data without explicit programming.
+
+Natural Language Processing (NLP) is a branch of AI that helps computers understand, interpret, and generate human language. It powers applications like chatbots, translation services, and sentiment analysis.
+
+Deep learning uses neural networks with multiple layers to process complex patterns in data. It has revolutionized computer vision, speech recognition, and many other fields.
+
+Retrieval Augmented Generation (RAG) combines information retrieval with language generation. It allows AI models to access external knowledge bases to provide more accurate and up-to-date responses.
+
+Vector databases store data as high-dimensional vectors, enabling fast similarity search. They are essential for modern AI applications that need to find relevant information quickly.

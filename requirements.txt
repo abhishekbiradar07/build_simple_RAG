@@ -1,0 +1,10 @@
+chromadb
+langchain
+langchain-community
+sentence-transformers
+pypdf
+transformers
+torch
+accelerate
+flask
+flask-cors
